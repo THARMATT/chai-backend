@@ -5,6 +5,8 @@ This is a video series on backend with javascript
 
 - [Video playlist](https://www.youtube.com/watch?v=EH3vGeqeIAo&list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW)
 
+- [Figma link](https://www.figma.com/file/shmxWL5FKRO5GNOPPopBg6/PLAY?type=design&node-id=0-1&mode=design&t=Pe21S9r22VJqDzEw-0)
+
 ---
 # Summary of this project
 
